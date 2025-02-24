@@ -15,6 +15,7 @@ Some importance of software engineering in technology industry are;
 - Improving security and to protect sensitive data from being hacked, to ensure compliance with industry regulations, keeping both users and businesses safe. 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 i) The Birth of Software Engineering (1968 - NATO Conference)
 Before 1968, software development lacked structure, leading to frequent project failures, cost overruns, and delays—this was known as the "Software Crisis.". The NATO Software Engineering Conference introduced the term software engineering and emphasized systematic development methodologies, structured programming, and software lifecycle management.
 
@@ -66,6 +67,7 @@ Perfective Maintenance (adding new features or improving performance).
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Waterfall is a step-by-step process where each phase is completed before moving to the next.
 It follows a strict order:
 Requirement Gathering → Design → Implementation (Coding) → Testing → Deployment → Maintenance
